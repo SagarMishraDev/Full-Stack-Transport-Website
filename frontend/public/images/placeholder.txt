@@ -1,0 +1,24 @@
+The following HD images should be placed in this directory:
+
+1. owner.jpg - Portrait of Girdhar Gopal Mishra (from provided image)
+2. hero-truck.jpg - HD image of a truck for the hero section background
+3. animated-truck.png - Transparent PNG of a truck for animations
+4. truck-banner.jpg - Wide HD image of trucks for company page banner
+5. form-background.jpg - Background image for the booking form
+6. footer-bg.jpg - Dark-themed background for the footer
+7. pattern.png - Subtle pattern for the services section background
+
+For services:
+8. local-delivery.jpg - Image representing local delivery services
+9. long-distance.jpg - Image representing long-distance transport
+10. heavy-material.jpg - Image showing heavy material transport
+11. express-delivery.jpg - Image showing express/fast delivery
+12. furniture-moving.jpg - Image showing furniture moving
+13. commercial-goods.jpg - Image showing commercial goods transport
+
+For fleet section:
+14. truck1.jpg - HD image of a truck in the fleet
+15. truck2.jpg - HD image of another truck in the fleet
+16. truck3.jpg - HD image of a third truck in the fleet
+
+These images should be high-quality, professional, and enhance the visual appeal of the website. 
