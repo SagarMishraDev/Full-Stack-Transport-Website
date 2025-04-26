@@ -34,7 +34,7 @@ A fully functional animated 3D truck transportation website with both frontend a
 
 1. Clone the repository
 ```
-git clone <repository-url>
+git clone <https://github.com/SagarMishraDev/Full-Stack-Transport-Website.git>
 cd truck-transport-website
 ```
 
@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries, please email: appyraja786@gmail.com 
+For any inquiries, please email: sagar.mishra.14.in@gmail.com 
